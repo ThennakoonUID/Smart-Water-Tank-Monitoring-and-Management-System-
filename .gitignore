@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Custom Project Files
+blynk_env/
+BLYNK_AUTH_TOKEN.env
